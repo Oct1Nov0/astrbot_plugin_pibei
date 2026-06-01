@@ -1,0 +1,9 @@
+name: astrbot_plugin_pibei
+desc: 吃谷圈云黑避雷库，支持录入、查询、撤销风险记录
+help: |
+  查询（所有人）：/查 QQ号  /详情 案件号  /分类列表
+  管理员：/录入 QQ号 分类 金额 经过   /撤销 案件号   /添加分类 名称
+  帮助：/避雷帮助
+version: 1.0.0
+author: you
+repo: ""
