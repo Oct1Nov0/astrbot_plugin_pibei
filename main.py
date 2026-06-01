@@ -337,9 +337,9 @@ class PibeiPlugin(Star):
 
     @filter.command("避雷帮助")
     async def pibei_help(self, event: AstrMessageEvent):
-        """避雷库使用帮助"""
+        """黑名单使用帮助"""
         yield event.plain_result(
-            "【吃谷避雷库 指令】\n"
+            "【黑名单 指令】\n"
             "查询（所有人可用）：\n"
             "  /查 QQ号\n"
             "  /详情 案件号\n"
